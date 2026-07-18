@@ -4,11 +4,11 @@
 
 🍎 Automated Fruit Sorting System Using ESP32
 
-  - This project presents an ESP32-based automated fruit sorting system designed to classify fruits based on their color. The system detects the presence of a fruit using an IR sensor, identifies its color through a color sensor, and automatically sorts it into the appropriate category using a servo motor.
+- This project presents an ESP32-based automated fruit sorting system designed to classify fruits based on their color. The system detects the presence of a fruit using an IR sensor, identifies its color through a color sensor, and automatically sorts it into the appropriate category using a servo motor.
     
 - A 16×2 LCD display provides real-time information about the detected fruit and sorting status. The project demonstrates embedded automation for agricultural and food processing industries by reducing manual effort and improving sorting efficiency.
 
-  ---
+---
 
  ❓ 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭
 
